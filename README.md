@@ -1,7 +1,7 @@
 # Data-Science-Task-for-Gaza-Sky-Geeks
 
 ## Analysis Report: IMDB Dataset of Top 1000 Movies and TV Shows
-Introduction
+### Introduction
 In this analysis, we explored the IMDB dataset of the top 1000 movies and TV shows. The dataset contains information such as the title, release year, certificate, genre, IMDb rating, director, and more.
 
 ### Data Preprocessing
