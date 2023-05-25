@@ -4,6 +4,16 @@
 ### Introduction
 In this analysis, we explored the IMDB dataset of the top 1000 movies and TV shows. The dataset contains information such as the title, release year, certificate, genre, IMDb rating, director, and more.
 
+### The requirements
+* Download the IMDB dataset of top 1000 movies and TV shows from Kaggle and load it into a pandas dataframe using the read_csv() function.
+* Clean and preprocess the data by removing unnecessary columns and handling missing values.
+* Explore the data to identify the most popular genre of movies and TV shows using pandas.
+* Create a new dataframe containing the count of movies/TV shows in each genre using pandas.
+* Visualize the data using a bar chart to show the most popular genre of movies/TV shows using pandas and the matplotlib library.
+* Identify the director with the most top-rated movies/TV shows by creating a new dataframe containing the count of movies/TV shows directed by each director using pandas.
+* Visualize the data using a bar chart to show the director with the most top-rated movies/TV shows using pandas and matplotlib.
+* Write a report summarizing your analysis and findings, including any insights or observations you discovered, using markdown cells in the Jupyter notebook.
+
 ### Data Preprocessing
 Before analyzing the data, we performed some data preprocessing steps, including removing unnecessary columns and handling missing values. The columns we focused on for analysis were: 'Series_Title', 'Released_Year', 'Certificate', 'Runtime', 'Genre', 'IMDB_Rating', 'Overview', 'Meta_score', 'Director', 'No_of_Votes', and 'Gross'.
 
